@@ -28,8 +28,8 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/quiz-tecnologico.git
-   cd quiz-tecnologico
+   git clone https://github.com/PanecilloPY/Quiz-Acronimos-Tecnologicos
+   cd quiz
    ```
 
 2. **Crea un entorno virtual** (opcional pero recomendado):
