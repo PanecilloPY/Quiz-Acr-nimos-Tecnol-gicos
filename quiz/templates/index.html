@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Tecnológico</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- Fondo animado -->
+    <div class="background"></div>
+
+    <!-- Contenedor principal -->
+    <div class="container">
+        <h1>Quiz Tecnológico</h1>
+        <div id="quiz">
+            <div id="question-container" class="fade-in"></div>
+            <button id="next-button" class="hidden">Siguiente</button>
+        </div>
+        <div id="results" class="hidden"></div>
+        <button id="restart-button" class="hidden">Volver a jugar</button> <!-- Botón de reinicio -->
+    </div>
+
+    <!-- Créditos -->
+    <div class="credits">PanecilloPY</div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
