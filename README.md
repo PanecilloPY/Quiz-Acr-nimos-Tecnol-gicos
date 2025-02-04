@@ -9,7 +9,6 @@
 - **Preguntas y respuestas**: Más de 30 preguntas sobre acrónimos y siglas tecnológicas.
 - **Retroalimentación visual**: Las respuestas se marcan en **azul** (seleccionada), **verde** (correcta) o **rojo** (incorrecta).
 - **Fondo animado**: Un gradiente dinámico que cambia de color.
-- **Créditos**: Muestra "PanecilloPY" en la esquina inferior derecha.
 - **Reinicio**: Un botón de "Volver a jugar" permite reiniciar el quiz con preguntas y opciones mezcladas.
 
 ---
